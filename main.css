@@ -104,7 +104,7 @@ th {
   background-color: #f69232;
   color: white;
 }
-.odd {
+tr:nth-child(odd) {
   background-color: white;
 }
 table a {
